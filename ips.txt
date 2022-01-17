@@ -1,0 +1,16 @@
+IP                   : 115.178.227.189
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -0.789275, 113.921327
+Currency             : Indonesian Rupiah
+IP                   : 140.213.22.144
+IP Type              : IPv4
+User OS              : Android
+Version              : Android
+Browser              : Handheld Browser
+Location             : Bandung, Indonesia, Asia
+GeoLocation(lat, lon): -6.9174639, 107.6191228
+Currency             : Indonesian Rupiah
